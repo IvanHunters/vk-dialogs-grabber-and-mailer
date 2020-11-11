@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lichi/core": "dev-master"
+    }
+}
